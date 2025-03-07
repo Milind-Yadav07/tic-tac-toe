@@ -8,4 +8,3 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.  
 *   Reset button to start a new game
   
 ## Technologies Used
-
