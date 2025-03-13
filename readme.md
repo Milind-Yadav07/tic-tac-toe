@@ -1,6 +1,5 @@
 # Tic-Tac-Toe Game
 
-
 ## Features
 *   Simple and intuitive gameplay
 *   Clear visual representation of the game board
